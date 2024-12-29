@@ -1,0 +1,20 @@
+{
+    "dependencies": {
+      "dotenv": "^16.4.7",
+      "ejs": "^3.1.10",
+      "express": "^4.21.2",
+      "multer": "^1.4.5-lts.1"
+    },
+    "name": "lost-and-found-portal",
+    "version": "1.0.0",
+    "main": "server.js",  
+    "scripts": {
+      "start": "node server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["lost", "found", "portal", "university"],
+    "author": "Rohit Koshyari",
+    "license": "ISC",
+    "description": "A lost and found portal for Graphic Era Hill University."
+  }
+  
